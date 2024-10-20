@@ -1,0 +1,12 @@
+{
+    "id": "llm-writing-plugin",
+    "name": "LLM Writing Assistant",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "An Obsidian plugin that uses LLM technology to provide writing suggestions.",
+    "main":"src/main.js",
+    "author": "Younes Saddoug (github : younes-sdg)",
+    "authorUrl": "https://github.com/younes-sdg",
+    "isDesktopOnly": true
+  }
+  
