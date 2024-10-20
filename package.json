@@ -1,0 +1,25 @@
+{
+  "name": "obsidian-neural-quill",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "llm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "description": "an Obsidian plugin that uses LLM techology to assist users in writing.",
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "webpack": "^5.95.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "lodash": "^4.17.21"
+  }
+}
